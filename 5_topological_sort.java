@@ -52,7 +52,7 @@ public class Main{
         
         int v = sc.nextInt(); // no. of nodes
         
-        ArrayList<ArrayList<Integer>> adj = new ArrayList<>(v);
+        ArrayList<ArrayList<Integer>> adj = new ArrayList<>();
         
         // Initialize each ArrayList in the adjacency list 
         
