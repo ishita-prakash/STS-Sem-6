@@ -1,6 +1,6 @@
 /* set functions :-
 1. adding elements -> myset.add("apple")
-2. removing elements -> myset.remive("apple")
+2. removing elements -> myset.remove("apple")
 3. checking if set contains an element -> boolean containsApple = myset.contains("apple")
 4. size of set -> int n = myset.size()
 5. checking if set is empty -> boolean setEmpty = myset.isEmpty()
